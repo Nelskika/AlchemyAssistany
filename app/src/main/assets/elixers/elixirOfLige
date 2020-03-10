@@ -1,0 +1,25 @@
+Elixir of Life
+Alchemical | Consumable | Elixir | Healing
+Usage: held in 1 hand
+Bulk: L
+Activate: 1 Action (Interact)
+
+Elixirs of life accelerate the body’s natural healing processes and immune system. Upon drinking this elixir, you regain the listed number of Hit Points and gain an item bonus to saving throws against diseases and poisons for 10 minutes.
+
+Type: Minor Level: 1 Price: 3 gp
+The elixir restores 1d6 Hit Points, and the bonus is +1.
+
+Type: Lesser Level: 5 Price: 30 gp
+The elixir restores 3d6+6 Hit Points and the bonus is +1.
+
+Type: Moderate Level: 9 Price: 150 gp
+The elixir restores 5d6+12 Hit Points, and the bonus is +2.
+
+Type: GreaterLevel: 13 Price: 600 gp
+The elixir restores 7d6+18 Hit Points, and the bonus is +2.
+
+Type: Major Level: 15 Price: 1,300 gp
+The elixir restores 8d6+21 Hit Points, and the bonus is +3.
+
+Type: True Level: 19 Price: 3,000 gp
+The elixir restores 10d6+27 Hit Points, and the bonus is +4.
